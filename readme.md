@@ -7,9 +7,13 @@ Hey there I am Enzo! 👋
 
 
 🔭 I’m currently working on a secret!
+
 🌱 I’m currently learning the base of Data Science
+
 💬 Ask me about Python, Data Structures, Linear Algebra and you can try Other Nerd's Stuff
+
 📫 How to reach me: enzokt@hotmail.com
+
 😄 Pronouns: He/Him
 
 
