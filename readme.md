@@ -19,4 +19,4 @@ Hey there I am Enzo! 👋
 
 ---
 
-[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=2050&height=500)](https://github.com/Czar210/github-readme-stats)
+[![enzotakida's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotakida&show_icons=true&theme=default&width=2050&height=500)](https://github.com/enzotakida/github-readme-stats)
